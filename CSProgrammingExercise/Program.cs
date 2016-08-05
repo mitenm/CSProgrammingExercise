@@ -6,7 +6,7 @@ namespace CSProgrammingExercise
     {
         static void Main(string[] args)
         {
-            //DrawSquare.DrawSquare(6);
+            DrawOverlappingSquares.DrawSquare(2,4);
         }
     }
 }

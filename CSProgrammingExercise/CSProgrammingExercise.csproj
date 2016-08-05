@@ -51,9 +51,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DrawOverlappingSquares.cs" />
     <Compile Include="DrawSingleSquare.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestDrawOverlappingSquareQ2.cs" />
     <Compile Include="TestDrawSingleSquareQ1.cs" />
   </ItemGroup>
   <ItemGroup>
