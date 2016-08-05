@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C# codes\CSProgrammingExercise\CSProgrammingExercise\bin\Release\CSProgrammingExercise.exe.config
+C:\Users\user\Desktop\C# codes\CSProgrammingExercise\CSProgrammingExercise\bin\Release\CSProgrammingExercise.exe
+C:\Users\user\Desktop\C# codes\CSProgrammingExercise\CSProgrammingExercise\bin\Release\CSProgrammingExercise.pdb
+C:\Users\user\Desktop\C# codes\CSProgrammingExercise\CSProgrammingExercise\bin\Release\nunit.framework.dll
+C:\Users\user\Desktop\C# codes\CSProgrammingExercise\CSProgrammingExercise\bin\Release\nunit.framework.xml
+C:\Users\user\Desktop\C# codes\CSProgrammingExercise\CSProgrammingExercise\obj\x86\Release\CSProgrammingExercise.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C# codes\CSProgrammingExercise\CSProgrammingExercise\obj\x86\Release\CSProgrammingExercise.exe
+C:\Users\user\Desktop\C# codes\CSProgrammingExercise\CSProgrammingExercise\obj\x86\Release\CSProgrammingExercise.pdb
